@@ -1,7 +1,3 @@
-require_relative '../lib/cat'
-require_relative '../lib/dog'
-require_relative '../lib/owner'
-
 describe "Associations" do
   before do
     @owner = Owner.new("Timmy")
