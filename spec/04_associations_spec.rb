@@ -1,4 +1,6 @@
-require_relative 'spec_helper.rb'
+require_relative '../lib/cat'
+require_relative '../lib/dog'
+require_relative '../lib/owner'
 
 describe "Associations" do
   before do
