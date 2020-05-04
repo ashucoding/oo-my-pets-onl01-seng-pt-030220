@@ -1,3 +1,5 @@
+require_relative 'spec_helper.rb'
+
 describe Cat do
 
   before do
